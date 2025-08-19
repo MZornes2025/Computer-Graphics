@@ -4,7 +4,7 @@
 This project demonstrates the creation of a 3D scene using OpenGL and C++. The scene depicts a simple dining area, featuring a wooden table, stools, a ceramic cup, and a hanging chandelier within a textured room. The implementation focuses on applying core computer graphics principles, including object transformation, texture mapping, lighting, and interactive camera navigation.
 
 ## Repository Contents
-*   `Project/` - Contains the Visual Studio project solution and source code files.
+*   `3dScene/` - Contains the Visual Studio project solution and source code files.
     *   `shadermanager.cpp` - The main rendering and scene management class.
     *   `(Other necessary .h and .cpp files)`
 *   `Executable/` - Contains a built executable for running the 3D scene.
